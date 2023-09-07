@@ -1,4 +1,4 @@
-#Labb 2 - Bildtjänster i Azure AI
+###Labb 2 - Bildtjänster i Azure AI
 ### Vad du ska göra
 
 Bygga en applikation som använder sig av Azure AI-komponenter för bilder. 
